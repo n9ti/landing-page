@@ -10,10 +10,14 @@
         Page Subheading with
         <mark>highlighting</mark>
       </p>
-      <br>
-      <img src="https://linemyshop.com/images/Asset-Hero.svg" alt width="320px">
+      <br />
+      <img
+        src="https://linemyshop.com/images/Asset-Hero.svg"
+        alt
+        width="320px"
+      />
       <p>
-        <a href="https://d3lpn.csb.app">
+        <a href="https://ga-app.netlify.com">
           <b>Register &rarr;</b>
         </a>
       </p>
