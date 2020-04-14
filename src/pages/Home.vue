@@ -16,7 +16,7 @@
         <em>Register &rarr; Direct</em>
       </a>
       <a id="register-undirect" href="https://ga-app.netlify.com">
-        <b>Register &rarr;</b>
+        <b>Register &rarr; Indirect</b>
       </a>
     </p>
   </header>
