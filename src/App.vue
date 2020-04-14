@@ -17,7 +17,7 @@
         width="320px"
       />
       <p>
-        <a href="https://ga-app.netlify.com">
+        <a id="register-1" href="https://ga-app.netlify.com">
           <b>Register &rarr;</b>
         </a>
       </p>
