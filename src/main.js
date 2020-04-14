@@ -9,9 +9,27 @@ Vue.use(VueRouter);
 Vue.config.productionTip = false;
 
 const routes = [
-  { path: "/", component: Home },
-  { path: "/thank-direct", component: ThankDirect },
-  { path: "/thank-indirect", component: ThankIndirect },
+  {
+    path: "/",
+    component: Home,
+    meta: {
+      title: "Home Page",
+    },
+  },
+  {
+    path: "/thank-direct",
+    component: ThankDirect,
+    meta: {
+      title: "Thank Direct",
+    },
+  },
+  {
+    path: "/thank-indirect",
+    component: ThankIndirect,
+    meta: {
+      title: "Thank Indirect",
+    },
+  },
 ];
 
 const router = new VueRouter({
