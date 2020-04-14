@@ -12,7 +12,7 @@
     <br />
     <img src="https://linemyshop.com/images/Asset-Hero.svg" alt width="320px" />
     <p>
-      <a id="register-direct" href="/thank">
+      <a id="register-direct" href="/thank-direct">
         <em>Register &rarr; Direct</em>
       </a>
       <a id="register-undirect" href="https://ga-app.netlify.com">
